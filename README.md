@@ -2,7 +2,7 @@
 Title: Trends in Obesity Rates
 
 Team Members:
-  Brain Stogner, Stephanie Hucks, Andrea Pappa, Stacey Poole
+  Brian Stogner, Stephanie Hucks, Andrea Pappa, Stacey Poole
 
 Project Description/Outline: 
   Obesity rates have been increasing in all US states. This project will analyze the correlation of obesity rates and several factors including:
